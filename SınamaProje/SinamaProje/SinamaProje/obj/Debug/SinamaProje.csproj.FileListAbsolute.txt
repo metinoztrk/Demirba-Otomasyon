@@ -1,0 +1,97 @@
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe.config
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csprojResolveAssemblyReference.cache
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Properties.Resources.resources
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csproj.GenerateResource.Cache
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\bin\Debug\SinamaProje.pdb
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.exe
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.pdb
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.AnaEkran.resources
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.PersonelÜzerindekiDemirbaşıArama.resources
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasSayisiArama.resources
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasKaydi.resources
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaTanimlama.resources
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaAtama.resources
+C:\Users\METİN\Desktop\ymt\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaDemirbasListesi.resources
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe.config
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.pdb
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.AnaEkran.resources
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasKaydi.resources
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasSayisiArama.resources
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaAtama.resources
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaDemirbasListesi.resources
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaTanimlama.resources
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.PersonelÜzerindekiDemirbaşıArama.resources
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Properties.Resources.resources
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csproj.GenerateResource.Cache
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.exe
+C:\Users\MSI\Desktop\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.pdb
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe.config
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.pdb
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csprojResolveAssemblyReference.cache
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.AnaEkran.resources
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasKaydi.resources
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasSayisiArama.resources
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaAtama.resources
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaDemirbasListesi.resources
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaTanimlama.resources
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.PersonelÜzerindekiDemirbaşıArama.resources
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Properties.Resources.resources
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csproj.GenerateResource.Cache
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.exe
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.pdb
+D:\SınamaProje\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Giris.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe.config
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.pdb
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csprojResolveAssemblyReference.cache
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.AnaEkran.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasKaydi.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasSayisiArama.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Giris.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaAtama.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaDemirbasListesi.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaTanimlama.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.PersonelÜzerindekiDemirbaşıArama.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Properties.Resources.resources
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csproj.GenerateResource.Cache
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.exe
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.pdb
+C:\Users\METİN\Desktop\SınamaProje1v2\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaPersonelAtama.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe.config
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.pdb
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csprojResolveAssemblyReference.cache
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.AnaEkran.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasKaydi.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasSayisiArama.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Giris.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaAtama.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaDemirbasListesi.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaPersonelAtama.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaTanimlama.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.PersonelÜzerindekiDemirbaşıArama.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Properties.Resources.resources
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csproj.GenerateResource.Cache
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.exe
+D:\SınamaProje -v3\SınamaProje -v3\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.pdb
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe.config
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.exe
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.pdb
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.exe
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\bin\Debug\SinamaProje.pdb
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csprojResolveAssemblyReference.cache
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.AnaEkran.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasKaydi.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.DemirbasSayisiArama.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Giris.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaAtama.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaDemirbasListesi.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaPersonelAtama.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.OdaTanimlama.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.PersonelÜzerindekiDemirbaşıArama.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.Properties.Resources.resources
+C:\Users\METİN\Desktop\SınamaProje - Tested\SınamaProje\SinamaProje\SinamaProje\obj\Debug\SinamaProje.csproj.GenerateResource.Cache
