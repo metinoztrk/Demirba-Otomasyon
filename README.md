@@ -5,4 +5,4 @@ GELİŞTİRİCİLER
 
 Metin ÖZTÜRK
 
-Yiğit KURTÇU
+[Yiğit KURTÇU](https://github.com/yigitkurtcu)
